@@ -1,4 +1,12 @@
 {
-  "maintenance": true,
-  "message": "SERVER OFF 🔥"
+  "mlbb_only": true,
+  "price_button": true,
+  "floating": true,
+
+  "show_start": true,
+  "show_stop": true,
+  "show_telegram": true,
+
+  "maintenance": false,
+  "message": "Welcome bro 🔥"
 }
