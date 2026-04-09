@@ -1,5 +1,5 @@
 {
   "mlbb_only": false,
-  "price_button": true,
-  "floating": true
+  "price_button": false,
+  "floating": false
 }
