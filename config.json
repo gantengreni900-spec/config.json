@@ -1,5 +1,12 @@
 {
   "mlbb_only": false,
   "price_button": false,
-  "floating": false
+  "floating": false,
+
+  "show_start": false,
+  "show_stop": false,
+  "show_telegram": false,
+
+  "maintenance": false,
+  "message": ""
 }
