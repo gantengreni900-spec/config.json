@@ -1,14 +1,14 @@
 {
-  "mlbb_only": true,
-  "price_button": true,
-  "floating": true,
+  "mlbb_only": false,
+  "price_button": false,
+  "floating": false,
 
-  "show_start": true,
-  "show_stop": true,
-  "show_telegram": true,
+  "show_start": false,
+  "show_stop": false,
+  "show_telegram": false,
 
   "maintenance": false,
-  "message": "Welcome bro!",
+  "message": "",
 
   "bg_color": "#0B1F1A",
   "card_color": "#122B22",
