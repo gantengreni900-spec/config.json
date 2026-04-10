@@ -8,5 +8,12 @@
   "show_telegram": true,
 
   "maintenance": false,
-  "message": "Welcome bro 🔥"
+  "message": "Welcome bro!",
+
+  "bg_color": "#0B1F1A",
+  "card_color": "#122B22",
+  "menu_color": "#0F241D",
+  "button_color": "#00C853",
+  "text_color": "#E8F5E9",
+  "accent_color": "#69F0AE"
 }
