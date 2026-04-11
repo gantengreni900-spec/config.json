@@ -8,12 +8,31 @@
   "show_telegram": true,
 
   "maintenance": false,
-  "message": "Welcome bro!🙋",
+  "message": "Welcome, Commander 👑",
 
-  "bg_color": "#0B1F1A",
-  "card_color": "#122B22",
-  "menu_color": "#0F241D",
-  "button_color": "#00C853",
+  "ui_style": "premium_v3",
+  "animation": "smooth_fade",
+  "blur_effect": true,
+  "shadow": true,
+  "rounded_corner": 18,
+
+  "bg_color": "#061A14",
+  "card_color": "#0D2B22",
+  "menu_color": "#0A2119",
+
+  "button_color": "#00E676",
+  "button_gradient": ["#00C853", "#69F0AE"],
+  "button_glow": true,
+
   "text_color": "#E8F5E9",
-  "accent_color": "#69F0AE"
+  "text_secondary": "#A5D6A7",
+
+  "accent_color": "#00E5FF",
+  "highlight_color": "#69F0AE",
+
+  "border_color": "#1B5E20",
+  "divider_color": "#10352A",
+
+  "icon_style": "neon_line",
+  "font_style": "poppins_bold"
 }
