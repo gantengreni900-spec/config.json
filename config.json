@@ -1,11 +1,11 @@
 {
   "mlbb_only": true,
-  "price_button": true,
-  "floating": true,
+  "price_button": false,
+  "floating": false,
 
-  "show_start": true,
-  "show_stop": true,
-  "show_telegram": true,
+  "show_start": false,
+  "show_stop": false,
+  "show_telegram": false,
 
   "maintenance": false,
   "message": "Welcome,💌",
@@ -22,7 +22,7 @@
 
   "button_color": "#00E676",
   "button_gradient": ["#00C853", "#69F0AE"],
-  "button_glow": true,
+  "button_glow": false,
 
   "text_color": "#E8F5E9",
   "text_secondary": "#A5D6A7",
