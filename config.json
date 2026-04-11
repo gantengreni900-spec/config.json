@@ -1,14 +1,14 @@
 {
   "mlbb_only": true,
-  "price_button": false,
-  "floating": false,
+  "price_button": true,
+  "floating": true,
 
-  "show_start": false,
-  "show_stop": false,
-  "show_telegram": false,
+  "show_start": true,
+  "show_stop": true,
+  "show_telegram": true,
 
   "maintenance": false,
-  "message": "LAGI ADA UPDATE BYPASS DI TUNGGU ",
+  "message": "Welcome,💌",
 
   "ui_style": "premium_v3",
   "animation": "smooth_fade",
@@ -22,7 +22,7 @@
 
   "button_color": "#00E676",
   "button_gradient": ["#00C853", "#69F0AE"],
-  "button_glow": false,
+  "button_glow": true,
 
   "text_color": "#E8F5E9",
   "text_secondary": "#A5D6A7",
