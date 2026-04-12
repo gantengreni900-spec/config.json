@@ -1,4 +1,4 @@
-show_dev=false
-show_start=false
-show_stop=false
-show_menu=false
+show_dev=true
+show_start=true
+show_stop=true
+show_menu=true
